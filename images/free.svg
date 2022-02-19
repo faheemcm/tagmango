@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="59.991" viewBox="0 0 60 59.991">
+  <g id="_35-35-Free_gift" data-name="35-35-Free gift" transform="translate(-2 -2.009)">
+    <path id="Path_1030" data-name="Path 1030" d="M5,62V23H59V62Z" fill="rgba(103,48,57,0.9)"/>
+    <path id="Path_1031" data-name="Path 1031" d="M32,62V23H59V62Z" fill="#673039"/>
+    <path id="Path_1032" data-name="Path 1032" d="M5,27V23H32v4Z" fill="#673039"/>
+    <path id="Path_1033" data-name="Path 1033" d="M32,27V23H59v4Z" fill="#432026"/>
+    <path id="Path_1034" data-name="Path 1034" d="M2,13H62V23H2Z" fill="rgba(103,48,57,0.9)"/>
+    <path id="Path_1035" data-name="Path 1035" d="M32,13H62V23H32Z" fill="#673039"/>
+    <path id="Path_1036" data-name="Path 1036" d="M25,13H39V23H25Z" fill="#f1f2f2"/>
+    <path id="Path_1037" data-name="Path 1037" d="M32,13h7V23H32Z" fill="#d1d3d4"/>
+    <path id="Path_1038" data-name="Path 1038" d="M29.862,7h4.276A1.862,1.862,0,0,1,36,8.862V13H28V8.862A1.862,1.862,0,0,1,29.862,7Z" fill="#79565c"/>
+    <path id="Path_1039" data-name="Path 1039" d="M36,8.86V13H32V7h2.14A1.856,1.856,0,0,1,36,8.86Z" fill="#673039"/>
+    <path id="Path_1040" data-name="Path 1040" d="M8,13V6.22a4.177,4.177,0,0,1,6.33-3.613L28,11v2Z" fill="#e6e7e8"/>
+    <path id="Path_1041" data-name="Path 1041" d="M36,13V11L49.67,2.608A4.177,4.177,0,0,1,56,6.22V13Z" fill="#bcbec0"/>
+    <path id="Path_1042" data-name="Path 1042" d="M15,47a1,1,0,0,1-1-1V36a1,1,0,0,1,1-1h6a1,1,0,0,1,0,2H16v9A1,1,0,0,1,15,47Z" fill="#fff"/>
+    <path id="Path_1043" data-name="Path 1043" d="M21,42H15a1,1,0,0,1,0-2h6a1,1,0,0,1,0,2Z" fill="#fff"/>
+    <g id="Group_4606" data-name="Group 4606">
+      <path id="Path_1044" data-name="Path 1044" d="M40,42H35a1,1,0,0,1,0-2h5a1,1,0,0,1,0,2Z" fill="rgba(255,255,255,0.9)"/>
+      <path id="Path_1045" data-name="Path 1045" d="M40,47H35a1,1,0,0,1-1-1V36a1,1,0,0,1,1-1h5a1,1,0,0,1,0,2H36v8h4a1,1,0,0,1,0,2Z" fill="rgba(255,255,255,0.9)"/>
+      <path id="Path_1046" data-name="Path 1046" d="M49,42H44a1,1,0,0,1,0-2h5a1,1,0,0,1,0,2Z" fill="rgba(255,255,255,0.9)"/>
+      <path id="Path_1047" data-name="Path 1047" d="M49,47H44a1,1,0,0,1-1-1V36a1,1,0,0,1,1-1h5a1,1,0,0,1,0,2H45v8h4a1,1,0,0,1,0,2Z" fill="rgba(255,255,255,0.9)"/>
+    </g>
+    <path id="Path_1048" data-name="Path 1048" d="M25,47a1,1,0,0,1-1-1V36a1,1,0,0,1,1-1h4.111A2.892,2.892,0,0,1,32,37.889v1.223A2.892,2.892,0,0,1,29.111,42H26v4A1,1,0,0,1,25,47Zm1-7h3.111A.889.889,0,0,0,30,39.111V37.889A.889.889,0,0,0,29.111,37H26Z" fill="#fff"/>
+    <path id="Path_1049" data-name="Path 1049" d="M31,47a1,1,0,0,1-.707-.293l-5-5a1,1,0,1,1,1.414-1.414l5,5A1,1,0,0,1,31,47Z" fill="#fff"/>
+  </g>
+</svg>
